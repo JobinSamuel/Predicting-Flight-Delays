@@ -10,4 +10,4 @@ Then visualizing the metrics with respect to the models shows the results.
 In Departure Delay and Arrival Delay , Random Forest Regressor was observed as the best model with Mean Squared Error and Mean Absolute Error, which are the minimum value found in these respective metrics. 
 In the rest of the metrics, the value of the error of Random Forest Regressor although is not minimum but still gives a low value comparatively. In maximum metrics, we found out that Random Forest Regressor gives us the best value and thus should be the model selected. 
 Finally deploying the model using DJANGO Framework.
-![image](https://user-images.githubusercontent.com/86288918/187066267-e96c27e7-9518-45f9-8669-0840b1113807.png)
+
