@@ -6,8 +6,4 @@ Splitting the data into three parts where 60% of the data will be considered as 
 Machine learning algorithms were applied, progressively and successively to predict flight arrival & delay. We built five models.
 We saw for each evaluation metric like Mean squared error(MSE), Mean absolute error(MAE), Explained Variance, Median absolute error, and R2 scores are considered and the values of each model are taken and compared.
 The model which gives the best value in maximum metrics is selected for prediction.
-Then visualizing the metrics with respect to the models shows the results. 
-In Departure Delay and Arrival Delay , Random Forest Regressor was observed as the best model with Mean Squared Error and Mean Absolute Error, which are the minimum value found in these respective metrics. 
-In the rest of the metrics, the value of the error of Random Forest Regressor although is not minimum but still gives a low value comparatively. In maximum metrics, we found out that Random Forest Regressor gives us the best value and thus should be the model selected. 
-Finally deploying the model using DJANGO Framework.
 
